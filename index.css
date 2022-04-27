@@ -8,7 +8,7 @@ body{
 	scroll-behavior: smooth;
 }
 #bgbody{
-	background-image: url('.././images./bg.jpg');
+	background-image: url('images/bg.jpg');
 	background-repeat: no-repeat;
 	background-size: auto;
 }
@@ -43,7 +43,7 @@ body{
 }
 
 #contactcon{
-	background-image: url('.././images./contactbg.png');
+	background-image: url('images/contactbg.png');
 	box-shadow: 0px -1px 35px 11px rgba(0,0,0,0.57);
 }
 
