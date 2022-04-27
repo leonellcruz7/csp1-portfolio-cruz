@@ -1,72 +1,32 @@
-a{
-	text-decoration-style: none;
-
-}
-
-body{
-	overflow-y: scroll;
-	scroll-behavior: smooth;
-}
-#bgbody{
+#first{
 	background-image: url('images/bg.jpg');
-	background-repeat: no-repeat;
-	background-size: auto;
+
 }
 
-/*#bgtwo{
-	background-image: url('./images./bg-two.webp');
-}*/
-
-#whotext{
-	font-family: 'Square Peg', cursive;
-}
-
-#whoami{
-	font-family: 'Josefin Sans', sans-serif;
-}
-
-
-
-.devtext{
-	font-family: 'Fjalla One', sans-serif;
-	color: black;
-}
-
-#like{
-	font-family: 'Square Peg', cursive;
-	color: #172c40;
-}
-
-.headtext{
-	font-family: 'Josefin Sans', sans-serif;
-	color: black;
-}
-
-#contactcon{
+#footer{
 	background-image: url('images/contactbg.png');
-	box-shadow: 0px -1px 35px 11px rgba(0,0,0,0.57);
+
 }
 
-#formcon{
-	background-color: #efe099;
-	box-shadow: 0px -1px 35px 11px rgba(0,0,0,0.37);
+#form{
 	border-radius: 20px 20px 20px 20px;
+	background-color: #f1de9b;
+	box-shadow: 0px 10px 33px 10px rgba(0,0,0,0.31);
 }
 
-#number{
+#exampleModal{
 	color: gray;
 }
 
 .shadowbox{
-	box-shadow: 3px 6px 18px 0px rgba(0,0,0,0.71);
+	box-shadow: 0px 6px 9px 0px rgba(0,0,0,0.33);
 }
 
-#contactbox{
-	box-shadow: 0px -1px 35px 11px rgba(0,0,0,0.57);
+h1{
+	font-family: 'Oswald', sans-serif;
 }
 
-.devtext{
-	font-size: 50px;
-	letter-spacing: 1px;
-	word-spacing: 1px;
+#whotext{
+	font-family: 'Square Peg', cursive;
+	font-size: 35px;
 }
