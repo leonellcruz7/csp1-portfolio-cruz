@@ -1,0 +1,72 @@
+a{
+	text-decoration-style: none;
+
+}
+
+body{
+	overflow-y: scroll;
+	scroll-behavior: smooth;
+}
+#bgbody{
+	background-image: url('.././images./bg.jpg');
+	background-repeat: no-repeat;
+	background-size: auto;
+}
+
+/*#bgtwo{
+	background-image: url('./images./bg-two.webp');
+}*/
+
+#whotext{
+	font-family: 'Square Peg', cursive;
+}
+
+#whoami{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+
+
+.devtext{
+	font-family: 'Fjalla One', sans-serif;
+	color: black;
+}
+
+#like{
+	font-family: 'Square Peg', cursive;
+	color: #172c40;
+}
+
+.headtext{
+	font-family: 'Josefin Sans', sans-serif;
+	color: black;
+}
+
+#contactcon{
+	background-image: url('.././images./contactbg.png');
+	box-shadow: 0px -1px 35px 11px rgba(0,0,0,0.57);
+}
+
+#formcon{
+	background-color: #efe099;
+	box-shadow: 0px -1px 35px 11px rgba(0,0,0,0.37);
+	border-radius: 20px 20px 20px 20px;
+}
+
+#number{
+	color: gray;
+}
+
+.shadowbox{
+	box-shadow: 3px 6px 18px 0px rgba(0,0,0,0.71);
+}
+
+#contactbox{
+	box-shadow: 0px -1px 35px 11px rgba(0,0,0,0.57);
+}
+
+.devtext{
+	font-size: 50px;
+	letter-spacing: 1px;
+	word-spacing: 1px;
+}
